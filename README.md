@@ -1,4 +1,4 @@
-💎**FPGA_GYM** is a verilog-based RL environment simulation framework.It has high performance.<br>
+💎**FPGA_GYM**💎 is a verilog-based RL environment simulation framework.It has high performance.<br>
 Currently it supports:<br>
 **Toy text:**<br>
  ☑️ Blackjack<br>
