@@ -1,15 +1,20 @@
-Preliminary software and hardware preparations:
-1. A FPGA development board with PCIe
-        Connect the fpga development board with pcie to the pcie slot on the computer motherboard, just like GPU.
-2. PCIe driver: 
-        Download the PCIe driver from AMD official website 
-        (https://support.xilinx.com/s/article/65444?language=en_US). 
-        Follow the steps in readme under the XDMA file.
-3. Vivado software(A comprehensive design suite to turn our hardware behavior description language Verilog into the actual computing circuit inside the fpga):
-        Download vivado from AMD official website (https://www.xilinx.com/support/download.html).
-        We used version 2018.2 in our experiment, you need to open it with a later version of vivado.
 File include:
-1. the template vivado project
-2. Top module(The communication and data management(by BRAM) logic between cpu and fpga through xdma.It has been set up, and the user does not need to modify this part)
-        Envs_steps module(The actual computing circuit modules for several individual environments, as well as the logic for passing the calculated data back to external BRAM. It has been set up, and the user just need to modify the number of environments you want to calculate at a time)
-            single environment compute logic moudule (standard environment or customized environment)
+1. VivadoProjectExample：
+   You can download the environment's Vivado project in this connection: https://disk.pku.edu.cn/link/AAA5847B47B5C84CFD987D4B0A803A7CC0
+   it includes
+   the template Vivado project
+   the CartPole, CliffWalking, Pendulum, Blackjack Vivado project
+2. FPGAEnv(python code, use directly with training connections)
+3. Training(Examples of training, including CartPole + DQN, CartPole + PPO, CliffWalking + DQN)
+
+Preliminary software and hardware preparations:
+1. An FPGA development board with PCIe
+        Connect the FPGA development board with PCIe to the PCIe slot on the computer motherboard, just like GPU.
+2. PCIe driver: 
+        Download the PCIe driver from AMD's official website 
+        (https://support.xilinx.com/s/article/65444?language=en_US). 
+        Follow the steps in the readme under the XDMA file.
+3. Vivado software(A comprehensive design suite to turn our hardware behavior description language Verilog into the actual computing circuit inside the FPGA):
+        Download the software Vivado from AMD's official website (https://www.xilinx.com/support/download.html).
+        We used version 2018.2 in our experiment, please open it with a later version of Vivado.
+
