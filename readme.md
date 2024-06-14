@@ -1,3 +1,5 @@
+
+You can see an example in this video(https://www.bilibili.com/video/BV12tV4e1EVw/?vd_source=3bfa69ca5962fd1ea8f48c880ae9844c)<br>
 File include:
 1. VivadoProjectExample：
    You can download the environment's Vivado project in this connection: https://disk.pku.edu.cn/link/AAA5847B47B5C84CFD987D4B0A803A7CC0
@@ -9,7 +11,7 @@ File include:
 
 Preliminary software and hardware preparations:
 1. An FPGA development board with PCIe
-        Connect the FPGA development board with PCIe to the PCIe slot on the computer motherboard, just like GPU.
+        Connect the FPGA development board with PCIe to the PCIe slot on the computer motherboard, just like the GPU.
 2. PCIe driver: 
         Download the PCIe driver from AMD's official website 
         (https://support.xilinx.com/s/article/65444?language=en_US). 
