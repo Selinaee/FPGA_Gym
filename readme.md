@@ -8,9 +8,23 @@
 
 [Introduction](#introduction) | [Environments](#environments) | [Template](#template) | [Quickstart](#quickstart)｜[Training Example](#training-example)｜[Other Great Tools](#other-great-tools) 
 
+<table>
+  <tr>
+    <td><img src="Docs/image/blackjack1.gif" alt="Image 1" width="200"/></td>
+    <td><img src="Docs/image/cart_pole.gif" alt="Image 2" width="200"/></td>
+    <td><img src="Docs/image/cliff_walking.gif" alt="Image 3" width="200"/></td>
+    <td><img src="Docs/image/frozen_lake.gif" alt="Image 4" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="Docs/image/mountain_car.gif" alt="Image 5" width="200"/></td>
+    <td><img src="Docs/image/pendulum.gif" alt="Image 6" width="200"/></td>
+    <td><img src="Docs/image/taxi.gif" alt="Image 7" width="200"/></td>
 
+  </tr>
+
+</table>
 ## Introduction
-💎 FPGA-Gym is a diverse suite of scalable reinforcement learning environments based on FPGA. 
+💎 FPGA-Gym is the first diverse suite of scalable reinforcement learning environments based on FPGA technology.
 
 It features very fast environment computation speed⚡️, large-scale parallelism🏅, and high flexibility🌊.
 
@@ -39,7 +53,7 @@ we provide the verilog template and python template, The hierarchical structure 
     * [`Pipline.v`]() This file defines our carefully designed parallel template.
         * [`Compute.v`]() This file defines the number of hardware compute resources. 
             * [`Compute_Single.v`]() This file defines a single environment compute logic. This corresponds to a computational resource on the development board. If the user wants to add a new environment, they need to customize this file. We add CartPole as example in the template.
-* [FPGAEnv.py] This file defines the parent class. After inheriting the parent class, different environment son classes need to modify the main places as follows.
+* [`FPGAEnv.py`]() This file defines the parent class. After inheriting the parent class, different environment son classes need to modify the main places as follows.
 Please see the [User Guide]() for details on how to add your own environment to the template.
 
 ## Quickstart
@@ -116,3 +130,17 @@ Other works have embraced the approach of writing RL environments in JAX. In par
 WrapDrive
 
 Podracer
+
+
+## Citation
+
+You can cite FPGA-Gym as:
+
+```bibtex
+@misc{jiayili2024fpga-gym,
+  title={FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework},
+  author={Jiayi Li},
+  year={2024},
+  primaryClass={cs.LG},
+  url={https://github.com/Selinaee/FPGA_Gym},
+}
