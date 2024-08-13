@@ -10,15 +10,15 @@
 
 <table>
   <tr>
-    <td><img src="Docs/image/blackjack1.gif" alt="Image 1" width="200"/></td>
-    <td><img src="Docs/image/cart_pole.gif" alt="Image 2" width="200"/></td>
-    <td><img src="Docs/image/cliff_walking.gif" alt="Image 3" width="200"/></td>
-    <td><img src="Docs/image/frozen_lake.gif" alt="Image 4" width="200"/></td>
+    <td><img src="Docs/image/blackjack1.gif" alt="Image 1" width="100"/></td>
+    <td><img src="Docs/image/cart_pole.gif" alt="Image 2" width="100"/></td>
+    <td><img src="Docs/image/cliff_walking.gif" alt="Image 3" width="100"/></td>
+    <td><img src="Docs/image/frozen_lake.gif" alt="Image 4" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="Docs/image/mountain_car.gif" alt="Image 5" width="200"/></td>
-    <td><img src="Docs/image/pendulum.gif" alt="Image 6" width="200"/></td>
-    <td><img src="Docs/image/taxi.gif" alt="Image 7" width="200"/></td>
+    <td><img src="Docs/image/mountain_car.gif" alt="Image 5" width="100"/></td>
+    <td><img src="Docs/image/pendulum.gif" alt="Image 6" width="100"/></td>
+    <td><img src="Docs/image/taxi.gif" alt="Image 7" width="100"/></td>
 
   </tr>
 
