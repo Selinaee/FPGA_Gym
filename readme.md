@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="./logo.png" alt="Description" width="200"/>
+<h1 align="center"><img src="Docs/image/logo.png" alt="Description" width="200"/>
 <h1 align="center">Parallel Reinforcement Learning Environments on FPGA 🌍</h1>
 
 
@@ -23,6 +23,7 @@
   </tr>
 
 </table>
+
 ## Introduction
 💎 FPGA-Gym is the first diverse suite of scalable reinforcement learning environments based on FPGA technology.
 
