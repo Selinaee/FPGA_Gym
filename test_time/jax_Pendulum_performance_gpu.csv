@@ -1,0 +1,5 @@
+Environment,Parallel,Steps_per_Sec
+Pendulum-v1,96,888394.9863542956
+Pendulum-v1,192,1778899.6419899894
+Pendulum-v1,288,2668857.0443479614
+Pendulum-v1,384,3467111.9950273577
