@@ -93,6 +93,7 @@ We provide examples of training, including [CartPole + DQN](github/Training_Exam
 
 Other works have embraced the approach of parallel RL environments. In particular, we suggest users check out the following sister repositories:
 
+In building
 
 | Type                           | Name |  Paper                                 |  Feature|
 |-------------------------------|------------------|---------------------------------------------------------------------------|-------------|
@@ -110,8 +111,6 @@ Other works have embraced the approach of parallel RL environments. In particula
 
 
 [Sample Factory](https://github.com/alex-petrenko/sample-factory) is one of the fastest RL libraries focused on very efficient synchronous and asynchronous implementations of policy gradients (PPO)
-
-
 
 
 [JaxMARL](https://github.com/FLAIROx/JaxMARL) supports a wide range of commonly used MARL environments. 
