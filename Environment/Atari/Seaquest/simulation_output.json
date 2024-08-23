@@ -1,0 +1,4400 @@
+[{
+  "player": {
+    "x":  81,
+    "y":  40,
+    "oxygen":  800,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 120, "y":  40, "direction": 0, "active": 1},
+    {"x": 130, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 150, "y":  55, "direction": 1, "active": 1},
+    {"x": 160, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x": 200, "y":  70, "active": 1},
+    {"x": 210, "y":  75, "active": 1},
+    {"x": 220, "y":  80, "active": 0},
+    {"x": 230, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 1} 
+  ],
+  "enemies": [
+    {"x":  70, "y": 100, "type": 1, "active": 1},
+    {"x":  80, "y": 110, "type": 0, "active": 1},
+    {"x":  90, "y": 120, "type": 1, "active": 1},
+    {"x": 100, "y": 130, "type": 1, "active": 1},
+    {"x": 110, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 150, "y":  90, "active": 1},
+    {"x": 160, "y":  95, "active": 1},
+    {"x": 170, "y": 100, "active": 0},
+    {"x": 180, "y": 105, "active": 1},
+    {"x": 190, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  80,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  41,
+    "oxygen":  799,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 121, "y":  40, "direction": 0, "active": 1},
+    {"x": 129, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 149, "y":  55, "direction": 1, "active": 1},
+    {"x": 161, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x": 201, "y":  70, "active": 1},
+    {"x": 209, "y":  75, "active": 1},
+    {"x":  68, "y": 100, "active": 1},
+    {"x": 229, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  69, "y": 100, "type": 1, "active": 1},
+    {"x":  81, "y": 110, "type": 0, "active": 1},
+    {"x":  89, "y": 120, "type": 1, "active": 1},
+    {"x": 101, "y": 130, "type": 1, "active": 1},
+    {"x": 109, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 151, "y":  90, "active": 1},
+    {"x": 159, "y":  95, "active": 1},
+    {"x": 175, "y":  52, "active": 1},
+    {"x": 179, "y": 105, "active": 1},
+    {"x": 191, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  81,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  42,
+    "oxygen":  798,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 122, "y":  40, "direction": 0, "active": 1},
+    {"x": 128, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 148, "y":  55, "direction": 1, "active": 1},
+    {"x": 162, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  67, "y": 100, "active": 1},
+    {"x": 208, "y":  75, "active": 1},
+    {"x":  67, "y": 100, "active": 1},
+    {"x": 228, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  68, "y": 100, "type": 1, "active": 1},
+    {"x":  82, "y": 110, "type": 0, "active": 1},
+    {"x":  88, "y": 120, "type": 1, "active": 1},
+    {"x": 102, "y": 130, "type": 1, "active": 1},
+    {"x": 108, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 152, "y":  90, "active": 1},
+    {"x": 158, "y":  95, "active": 1},
+    {"x": 176, "y":  52, "active": 1},
+    {"x": 178, "y": 105, "active": 1},
+    {"x": 192, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  82,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  43,
+    "oxygen":  797,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 123, "y":  40, "direction": 0, "active": 1},
+    {"x": 127, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 147, "y":  55, "direction": 1, "active": 1},
+    {"x": 163, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  66, "y": 100, "active": 1},
+    {"x": 207, "y":  75, "active": 1},
+    {"x":  66, "y": 100, "active": 1},
+    {"x": 227, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  67, "y": 100, "type": 1, "active": 1},
+    {"x":  83, "y": 110, "type": 0, "active": 1},
+    {"x":  87, "y": 120, "type": 1, "active": 1},
+    {"x": 103, "y": 130, "type": 1, "active": 1},
+    {"x": 107, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 153, "y":  90, "active": 1},
+    {"x": 157, "y":  95, "active": 1},
+    {"x": 177, "y":  52, "active": 1},
+    {"x": 177, "y": 105, "active": 1},
+    {"x": 193, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  83,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  43,
+    "oxygen":  796,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 123, "y":  40, "direction": 0, "active": 1},
+    {"x": 127, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 147, "y":  55, "direction": 1, "active": 1},
+    {"x": 163, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  66, "y": 100, "active": 1},
+    {"x": 207, "y":  75, "active": 1},
+    {"x":  66, "y": 100, "active": 1},
+    {"x": 227, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  67, "y": 100, "type": 1, "active": 1},
+    {"x":  83, "y": 110, "type": 0, "active": 1},
+    {"x":  87, "y": 120, "type": 1, "active": 1},
+    {"x": 103, "y": 130, "type": 1, "active": 1},
+    {"x": 107, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 153, "y":  90, "active": 1},
+    {"x": 157, "y":  95, "active": 1},
+    {"x": 177, "y":  52, "active": 1},
+    {"x": 177, "y": 105, "active": 1},
+    {"x": 193, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  83,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  43,
+    "oxygen":  795,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 123, "y":  40, "direction": 0, "active": 1},
+    {"x": 127, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 147, "y":  55, "direction": 1, "active": 1},
+    {"x": 163, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  66, "y": 100, "active": 1},
+    {"x": 207, "y":  75, "active": 1},
+    {"x":  66, "y": 100, "active": 1},
+    {"x": 227, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  67, "y": 100, "type": 1, "active": 1},
+    {"x":  83, "y": 110, "type": 0, "active": 1},
+    {"x":  87, "y": 120, "type": 1, "active": 1},
+    {"x": 103, "y": 130, "type": 1, "active": 1},
+    {"x": 107, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 153, "y":  90, "active": 1},
+    {"x": 157, "y":  95, "active": 1},
+    {"x": 177, "y":  52, "active": 1},
+    {"x": 177, "y": 105, "active": 1},
+    {"x": 193, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  83,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  44,
+    "oxygen":  794,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 124, "y":  40, "direction": 0, "active": 1},
+    {"x": 126, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 146, "y":  55, "direction": 1, "active": 1},
+    {"x": 164, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  65, "y": 100, "active": 1},
+    {"x": 206, "y":  75, "active": 1},
+    {"x":  65, "y": 100, "active": 1},
+    {"x": 226, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  66, "y": 100, "type": 1, "active": 1},
+    {"x":  84, "y": 110, "type": 0, "active": 1},
+    {"x":  86, "y": 120, "type": 1, "active": 1},
+    {"x": 104, "y": 130, "type": 1, "active": 1},
+    {"x": 106, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 154, "y":  90, "active": 1},
+    {"x": 156, "y":  95, "active": 1},
+    {"x": 178, "y":  52, "active": 1},
+    {"x": 176, "y": 105, "active": 1},
+    {"x": 194, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  84,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  45,
+    "oxygen":  793,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 125, "y":  40, "direction": 0, "active": 1},
+    {"x": 125, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 145, "y":  55, "direction": 1, "active": 1},
+    {"x": 165, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  64, "y": 100, "active": 1},
+    {"x": 205, "y":  75, "active": 1},
+    {"x":  64, "y": 100, "active": 1},
+    {"x": 225, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  65, "y": 100, "type": 1, "active": 1},
+    {"x":  85, "y": 110, "type": 0, "active": 1},
+    {"x":  85, "y": 120, "type": 1, "active": 1},
+    {"x": 105, "y": 130, "type": 1, "active": 1},
+    {"x": 105, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 155, "y":  90, "active": 1},
+    {"x": 155, "y":  95, "active": 1},
+    {"x": 179, "y":  52, "active": 1},
+    {"x": 175, "y": 105, "active": 1},
+    {"x": 195, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  85,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  46,
+    "oxygen":  792,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 126, "y":  40, "direction": 0, "active": 1},
+    {"x": 124, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 144, "y":  55, "direction": 1, "active": 1},
+    {"x": 166, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  63, "y": 100, "active": 1},
+    {"x": 204, "y":  75, "active": 1},
+    {"x":  63, "y": 100, "active": 1},
+    {"x": 224, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  64, "y": 100, "type": 1, "active": 1},
+    {"x":  86, "y": 110, "type": 0, "active": 1},
+    {"x":  84, "y": 120, "type": 1, "active": 1},
+    {"x": 106, "y": 130, "type": 1, "active": 1},
+    {"x": 104, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 156, "y":  90, "active": 1},
+    {"x": 154, "y":  95, "active": 1},
+    {"x": 180, "y":  52, "active": 1},
+    {"x": 174, "y": 105, "active": 1},
+    {"x": 196, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  86,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  47,
+    "oxygen":  791,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 127, "y":  40, "direction": 0, "active": 1},
+    {"x": 123, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 143, "y":  55, "direction": 1, "active": 1},
+    {"x": 167, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  62, "y": 100, "active": 1},
+    {"x": 203, "y":  75, "active": 1},
+    {"x":  62, "y": 100, "active": 1},
+    {"x": 223, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  63, "y": 100, "type": 1, "active": 1},
+    {"x":  87, "y": 110, "type": 0, "active": 1},
+    {"x":  83, "y": 120, "type": 1, "active": 1},
+    {"x": 107, "y": 130, "type": 1, "active": 1},
+    {"x": 103, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 157, "y":  90, "active": 1},
+    {"x": 153, "y":  95, "active": 1},
+    {"x": 181, "y":  52, "active": 1},
+    {"x": 173, "y": 105, "active": 1},
+    {"x": 197, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  87,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  48,
+    "oxygen":  790,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 128, "y":  40, "direction": 0, "active": 1},
+    {"x": 122, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 142, "y":  55, "direction": 1, "active": 1},
+    {"x": 168, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  61, "y": 100, "active": 1},
+    {"x": 202, "y":  75, "active": 1},
+    {"x":  61, "y": 100, "active": 1},
+    {"x": 222, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  62, "y": 100, "type": 1, "active": 1},
+    {"x":  88, "y": 110, "type": 0, "active": 1},
+    {"x":  82, "y": 120, "type": 1, "active": 1},
+    {"x": 108, "y": 130, "type": 1, "active": 1},
+    {"x": 102, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 158, "y":  90, "active": 1},
+    {"x": 152, "y":  95, "active": 1},
+    {"x": 182, "y":  52, "active": 1},
+    {"x": 172, "y": 105, "active": 1},
+    {"x": 198, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  88,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  49,
+    "oxygen":  789,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 129, "y":  40, "direction": 0, "active": 1},
+    {"x": 121, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 141, "y":  55, "direction": 1, "active": 1},
+    {"x": 169, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  60, "y": 100, "active": 1},
+    {"x": 201, "y":  75, "active": 1},
+    {"x":  60, "y": 100, "active": 1},
+    {"x": 221, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  61, "y": 100, "type": 1, "active": 1},
+    {"x":  89, "y": 110, "type": 0, "active": 1},
+    {"x":  81, "y": 120, "type": 1, "active": 1},
+    {"x": 109, "y": 130, "type": 1, "active": 1},
+    {"x": 101, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 159, "y":  90, "active": 1},
+    {"x": 151, "y":  95, "active": 1},
+    {"x": 183, "y":  52, "active": 1},
+    {"x": 171, "y": 105, "active": 1},
+    {"x": 199, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  89,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  50,
+    "oxygen":  788,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 130, "y":  40, "direction": 0, "active": 1},
+    {"x": 120, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 140, "y":  55, "direction": 1, "active": 1},
+    {"x": 170, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  59, "y": 100, "active": 1},
+    {"x": 200, "y":  75, "active": 1},
+    {"x":  59, "y": 100, "active": 1},
+    {"x": 220, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  60, "y": 100, "type": 1, "active": 1},
+    {"x":  90, "y": 110, "type": 0, "active": 1},
+    {"x":  80, "y": 120, "type": 1, "active": 1},
+    {"x": 110, "y": 130, "type": 1, "active": 1},
+    {"x": 100, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 160, "y":  90, "active": 1},
+    {"x": 150, "y":  95, "active": 1},
+    {"x": 184, "y":  52, "active": 1},
+    {"x": 170, "y": 105, "active": 1},
+    {"x": 200, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  90,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  51,
+    "oxygen":  787,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 131, "y":  40, "direction": 0, "active": 1},
+    {"x": 119, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 139, "y":  55, "direction": 1, "active": 1},
+    {"x": 171, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  58, "y": 100, "active": 1},
+    {"x": 199, "y":  75, "active": 1},
+    {"x":  58, "y": 100, "active": 1},
+    {"x": 219, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  59, "y": 100, "type": 1, "active": 1},
+    {"x":  91, "y": 110, "type": 0, "active": 1},
+    {"x":  79, "y": 120, "type": 1, "active": 1},
+    {"x": 111, "y": 130, "type": 1, "active": 1},
+    {"x":  99, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 161, "y":  90, "active": 1},
+    {"x": 149, "y":  95, "active": 1},
+    {"x": 185, "y":  52, "active": 1},
+    {"x": 169, "y": 105, "active": 1},
+    {"x": 201, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  91,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  52,
+    "oxygen":  786,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 132, "y":  40, "direction": 0, "active": 1},
+    {"x": 118, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 138, "y":  55, "direction": 1, "active": 1},
+    {"x": 172, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  57, "y": 100, "active": 1},
+    {"x": 198, "y":  75, "active": 1},
+    {"x":  57, "y": 100, "active": 1},
+    {"x": 218, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  58, "y": 100, "type": 1, "active": 1},
+    {"x":  92, "y": 110, "type": 0, "active": 1},
+    {"x":  78, "y": 120, "type": 1, "active": 1},
+    {"x": 112, "y": 130, "type": 1, "active": 1},
+    {"x":  98, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 162, "y":  90, "active": 1},
+    {"x": 148, "y":  95, "active": 1},
+    {"x": 186, "y":  52, "active": 1},
+    {"x": 168, "y": 105, "active": 1},
+    {"x": 202, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  92,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  53,
+    "oxygen":  785,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 133, "y":  40, "direction": 0, "active": 1},
+    {"x": 117, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 137, "y":  55, "direction": 1, "active": 1},
+    {"x": 173, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  56, "y": 100, "active": 1},
+    {"x": 197, "y":  75, "active": 1},
+    {"x":  56, "y": 100, "active": 1},
+    {"x": 217, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  57, "y": 100, "type": 1, "active": 1},
+    {"x":  93, "y": 110, "type": 0, "active": 1},
+    {"x":  77, "y": 120, "type": 1, "active": 1},
+    {"x": 113, "y": 130, "type": 1, "active": 1},
+    {"x":  97, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 163, "y":  90, "active": 1},
+    {"x": 147, "y":  95, "active": 1},
+    {"x": 187, "y":  52, "active": 1},
+    {"x": 167, "y": 105, "active": 1},
+    {"x": 203, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  93,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  54,
+    "oxygen":  784,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 134, "y":  40, "direction": 0, "active": 1},
+    {"x": 116, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 136, "y":  55, "direction": 1, "active": 1},
+    {"x": 174, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  55, "y": 100, "active": 1},
+    {"x": 196, "y":  75, "active": 1},
+    {"x":  55, "y": 100, "active": 1},
+    {"x": 216, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  56, "y": 100, "type": 1, "active": 1},
+    {"x":  94, "y": 110, "type": 0, "active": 1},
+    {"x":  76, "y": 120, "type": 1, "active": 1},
+    {"x": 114, "y": 130, "type": 1, "active": 1},
+    {"x":  96, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 164, "y":  90, "active": 1},
+    {"x": 146, "y":  95, "active": 1},
+    {"x": 188, "y":  52, "active": 1},
+    {"x": 166, "y": 105, "active": 1},
+    {"x": 204, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  94,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  55,
+    "oxygen":  783,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 135, "y":  40, "direction": 0, "active": 1},
+    {"x": 115, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 135, "y":  55, "direction": 1, "active": 1},
+    {"x": 175, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  54, "y": 100, "active": 1},
+    {"x": 195, "y":  75, "active": 1},
+    {"x":  54, "y": 100, "active": 1},
+    {"x": 215, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  55, "y": 100, "type": 1, "active": 1},
+    {"x":  95, "y": 110, "type": 0, "active": 1},
+    {"x":  75, "y": 120, "type": 1, "active": 1},
+    {"x": 115, "y": 130, "type": 1, "active": 1},
+    {"x":  95, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 165, "y":  90, "active": 1},
+    {"x": 145, "y":  95, "active": 1},
+    {"x": 189, "y":  52, "active": 1},
+    {"x": 165, "y": 105, "active": 1},
+    {"x": 205, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  95,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  56,
+    "oxygen":  782,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 136, "y":  40, "direction": 0, "active": 1},
+    {"x": 114, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 134, "y":  55, "direction": 1, "active": 1},
+    {"x": 176, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  53, "y": 100, "active": 1},
+    {"x": 194, "y":  75, "active": 1},
+    {"x":  53, "y": 100, "active": 1},
+    {"x": 214, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  54, "y": 100, "type": 1, "active": 1},
+    {"x":  96, "y": 110, "type": 0, "active": 1},
+    {"x":  74, "y": 120, "type": 1, "active": 1},
+    {"x": 116, "y": 130, "type": 1, "active": 1},
+    {"x":  94, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 166, "y":  90, "active": 1},
+    {"x": 144, "y":  95, "active": 1},
+    {"x": 190, "y":  52, "active": 1},
+    {"x": 164, "y": 105, "active": 1},
+    {"x": 206, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  96,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  57,
+    "oxygen":  781,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 137, "y":  40, "direction": 0, "active": 1},
+    {"x": 113, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 133, "y":  55, "direction": 1, "active": 1},
+    {"x": 177, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  52, "y": 100, "active": 1},
+    {"x": 193, "y":  75, "active": 1},
+    {"x":  52, "y": 100, "active": 1},
+    {"x": 213, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  53, "y": 100, "type": 1, "active": 1},
+    {"x":  97, "y": 110, "type": 0, "active": 1},
+    {"x":  73, "y": 120, "type": 1, "active": 1},
+    {"x": 117, "y": 130, "type": 1, "active": 1},
+    {"x":  93, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 167, "y":  90, "active": 1},
+    {"x": 143, "y":  95, "active": 1},
+    {"x": 191, "y":  52, "active": 1},
+    {"x": 163, "y": 105, "active": 1},
+    {"x": 207, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  97,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  57,
+    "oxygen":  780,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 137, "y":  40, "direction": 0, "active": 1},
+    {"x": 113, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 133, "y":  55, "direction": 1, "active": 1},
+    {"x": 177, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  52, "y": 100, "active": 1},
+    {"x": 193, "y":  75, "active": 1},
+    {"x":  52, "y": 100, "active": 1},
+    {"x": 213, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  53, "y": 100, "type": 1, "active": 1},
+    {"x":  97, "y": 110, "type": 0, "active": 1},
+    {"x":  73, "y": 120, "type": 1, "active": 1},
+    {"x": 117, "y": 130, "type": 1, "active": 1},
+    {"x":  93, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 167, "y":  90, "active": 1},
+    {"x": 143, "y":  95, "active": 1},
+    {"x": 191, "y":  52, "active": 1},
+    {"x": 163, "y": 105, "active": 1},
+    {"x": 207, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  97,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  57,
+    "oxygen":  779,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 137, "y":  40, "direction": 0, "active": 1},
+    {"x": 113, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 133, "y":  55, "direction": 1, "active": 1},
+    {"x": 177, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  52, "y": 100, "active": 1},
+    {"x": 193, "y":  75, "active": 1},
+    {"x":  52, "y": 100, "active": 1},
+    {"x": 213, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  53, "y": 100, "type": 1, "active": 1},
+    {"x":  97, "y": 110, "type": 0, "active": 1},
+    {"x":  73, "y": 120, "type": 1, "active": 1},
+    {"x": 117, "y": 130, "type": 1, "active": 1},
+    {"x":  93, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 167, "y":  90, "active": 1},
+    {"x": 143, "y":  95, "active": 1},
+    {"x": 191, "y":  52, "active": 1},
+    {"x": 163, "y": 105, "active": 1},
+    {"x": 207, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  97,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  58,
+    "oxygen":  778,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 138, "y":  40, "direction": 0, "active": 1},
+    {"x": 112, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 132, "y":  55, "direction": 1, "active": 1},
+    {"x": 178, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  51, "y": 100, "active": 1},
+    {"x": 192, "y":  75, "active": 1},
+    {"x":  51, "y": 100, "active": 1},
+    {"x": 212, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  52, "y": 100, "type": 1, "active": 1},
+    {"x":  98, "y": 110, "type": 0, "active": 1},
+    {"x":  72, "y": 120, "type": 1, "active": 1},
+    {"x": 118, "y": 130, "type": 1, "active": 1},
+    {"x":  92, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 168, "y":  90, "active": 1},
+    {"x": 142, "y":  95, "active": 1},
+    {"x": 192, "y":  52, "active": 1},
+    {"x": 162, "y": 105, "active": 1},
+    {"x": 208, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  98,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  59,
+    "oxygen":  777,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 139, "y":  40, "direction": 0, "active": 1},
+    {"x": 111, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 131, "y":  55, "direction": 1, "active": 1},
+    {"x": 179, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  50, "y": 100, "active": 1},
+    {"x": 191, "y":  75, "active": 1},
+    {"x":  50, "y": 100, "active": 1},
+    {"x": 211, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  51, "y": 100, "type": 1, "active": 1},
+    {"x":  99, "y": 110, "type": 0, "active": 1},
+    {"x":  71, "y": 120, "type": 1, "active": 1},
+    {"x": 119, "y": 130, "type": 1, "active": 1},
+    {"x":  91, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 169, "y":  90, "active": 1},
+    {"x": 141, "y":  95, "active": 1},
+    {"x": 193, "y":  52, "active": 1},
+    {"x": 161, "y": 105, "active": 1},
+    {"x": 209, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x":  99,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  60,
+    "oxygen":  776,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 140, "y":  40, "direction": 0, "active": 1},
+    {"x": 110, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 130, "y":  55, "direction": 1, "active": 1},
+    {"x": 180, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  49, "y": 100, "active": 1},
+    {"x": 190, "y":  75, "active": 1},
+    {"x":  49, "y": 100, "active": 1},
+    {"x": 210, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  50, "y": 100, "type": 1, "active": 1},
+    {"x": 100, "y": 110, "type": 0, "active": 1},
+    {"x":  70, "y": 120, "type": 1, "active": 1},
+    {"x": 120, "y": 130, "type": 1, "active": 1},
+    {"x":  90, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 170, "y":  90, "active": 1},
+    {"x": 140, "y":  95, "active": 1},
+    {"x": 194, "y":  52, "active": 1},
+    {"x": 160, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 1} 
+  ],
+  "patrol_submarine": {
+    "x": 100,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  61,
+    "oxygen":  775,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 141, "y":  40, "direction": 0, "active": 1},
+    {"x": 109, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 129, "y":  55, "direction": 1, "active": 1},
+    {"x": 181, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  48, "y": 100, "active": 1},
+    {"x": 189, "y":  75, "active": 1},
+    {"x":  48, "y": 100, "active": 1},
+    {"x": 209, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  49, "y": 100, "type": 1, "active": 1},
+    {"x": 101, "y": 110, "type": 0, "active": 1},
+    {"x":  69, "y": 120, "type": 1, "active": 1},
+    {"x": 121, "y": 130, "type": 1, "active": 1},
+    {"x":  89, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 171, "y":  90, "active": 1},
+    {"x": 139, "y":  95, "active": 1},
+    {"x": 195, "y":  52, "active": 1},
+    {"x": 159, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 101,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  62,
+    "oxygen":  774,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 142, "y":  40, "direction": 0, "active": 1},
+    {"x": 108, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 128, "y":  55, "direction": 1, "active": 1},
+    {"x": 182, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  47, "y": 100, "active": 1},
+    {"x": 188, "y":  75, "active": 1},
+    {"x":  47, "y": 100, "active": 1},
+    {"x": 208, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  48, "y": 100, "type": 1, "active": 1},
+    {"x": 102, "y": 110, "type": 0, "active": 1},
+    {"x":  68, "y": 120, "type": 1, "active": 1},
+    {"x": 122, "y": 130, "type": 1, "active": 1},
+    {"x":  88, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 157, "y":  40, "active": 1},
+    {"x": 138, "y":  95, "active": 1},
+    {"x": 196, "y":  52, "active": 1},
+    {"x": 158, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 102,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  63,
+    "oxygen":  773,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 143, "y":  40, "direction": 0, "active": 1},
+    {"x": 107, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 127, "y":  55, "direction": 1, "active": 1},
+    {"x": 183, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  46, "y": 100, "active": 1},
+    {"x": 187, "y":  75, "active": 1},
+    {"x":  46, "y": 100, "active": 1},
+    {"x": 207, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  47, "y": 100, "type": 1, "active": 1},
+    {"x": 103, "y": 110, "type": 0, "active": 1},
+    {"x":  67, "y": 120, "type": 1, "active": 1},
+    {"x": 123, "y": 130, "type": 1, "active": 1},
+    {"x":  87, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 200, "y":  30, "active": 1},
+    {"x": 137, "y":  95, "active": 1},
+    {"x": 197, "y":  52, "active": 1},
+    {"x": 157, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 103,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  64,
+    "oxygen":  772,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 144, "y":  40, "direction": 0, "active": 1},
+    {"x": 106, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 126, "y":  55, "direction": 1, "active": 1},
+    {"x": 184, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  45, "y": 100, "active": 1},
+    {"x": 186, "y":  75, "active": 1},
+    {"x":  45, "y": 100, "active": 1},
+    {"x": 206, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  46, "y": 100, "type": 1, "active": 1},
+    {"x": 104, "y": 110, "type": 0, "active": 1},
+    {"x":  66, "y": 120, "type": 1, "active": 1},
+    {"x": 124, "y": 130, "type": 1, "active": 1},
+    {"x":  86, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 190, "y": 120, "active": 1},
+    {"x": 136, "y":  95, "active": 1},
+    {"x": 198, "y":  52, "active": 1},
+    {"x": 156, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 104,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  65,
+    "oxygen":  771,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 145, "y":  40, "direction": 0, "active": 1},
+    {"x": 105, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 125, "y":  55, "direction": 1, "active": 1},
+    {"x": 185, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  44, "y": 100, "active": 1},
+    {"x": 185, "y":  75, "active": 1},
+    {"x":  44, "y": 100, "active": 1},
+    {"x": 205, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  45, "y": 100, "type": 1, "active": 1},
+    {"x": 105, "y": 110, "type": 0, "active": 1},
+    {"x":  65, "y": 120, "type": 1, "active": 1},
+    {"x": 125, "y": 130, "type": 1, "active": 1},
+    {"x":  85, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 120, "y": 138, "active": 1},
+    {"x": 135, "y":  95, "active": 1},
+    {"x": 199, "y":  52, "active": 1},
+    {"x": 155, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 105,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  66,
+    "oxygen":  770,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 146, "y":  40, "direction": 0, "active": 1},
+    {"x": 104, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 124, "y":  55, "direction": 1, "active": 1},
+    {"x": 186, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  43, "y": 100, "active": 1},
+    {"x": 184, "y":  75, "active": 1},
+    {"x":  43, "y": 100, "active": 1},
+    {"x": 204, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  44, "y": 100, "type": 1, "active": 1},
+    {"x": 106, "y": 110, "type": 0, "active": 1},
+    {"x":  64, "y": 120, "type": 1, "active": 1},
+    {"x": 126, "y": 130, "type": 1, "active": 1},
+    {"x":  84, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 138, "y":  15, "active": 1},
+    {"x": 134, "y":  95, "active": 1},
+    {"x": 200, "y":  52, "active": 1},
+    {"x": 154, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 106,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  67,
+    "oxygen":  769,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 147, "y":  40, "direction": 0, "active": 1},
+    {"x": 103, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 123, "y":  55, "direction": 1, "active": 1},
+    {"x": 187, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  42, "y": 100, "active": 1},
+    {"x": 183, "y":  75, "active": 1},
+    {"x":  42, "y": 100, "active": 1},
+    {"x": 203, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  43, "y": 100, "type": 1, "active": 1},
+    {"x": 107, "y": 110, "type": 0, "active": 1},
+    {"x":  63, "y": 120, "type": 1, "active": 1},
+    {"x": 127, "y": 130, "type": 1, "active": 1},
+    {"x":  83, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  15, "y":  31, "active": 1},
+    {"x": 133, "y":  95, "active": 1},
+    {"x": 201, "y":  52, "active": 1},
+    {"x": 153, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 107,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  68,
+    "oxygen":  768,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 148, "y":  40, "direction": 0, "active": 1},
+    {"x": 102, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 122, "y":  55, "direction": 1, "active": 1},
+    {"x": 188, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  41, "y": 100, "active": 1},
+    {"x": 182, "y":  75, "active": 1},
+    {"x":  41, "y": 100, "active": 1},
+    {"x": 202, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  42, "y": 100, "type": 1, "active": 1},
+    {"x": 108, "y": 110, "type": 0, "active": 1},
+    {"x":  62, "y": 120, "type": 1, "active": 1},
+    {"x": 128, "y": 130, "type": 1, "active": 1},
+    {"x":  82, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  31, "y": 100, "active": 1},
+    {"x": 132, "y":  95, "active": 1},
+    {"x": 202, "y":  52, "active": 1},
+    {"x": 152, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 108,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  69,
+    "oxygen":  767,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 149, "y":  40, "direction": 0, "active": 1},
+    {"x": 101, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 121, "y":  55, "direction": 1, "active": 1},
+    {"x": 189, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  40, "y": 100, "active": 1},
+    {"x": 181, "y":  75, "active": 1},
+    {"x":  40, "y": 100, "active": 1},
+    {"x": 201, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  41, "y": 100, "type": 1, "active": 1},
+    {"x": 109, "y": 110, "type": 0, "active": 1},
+    {"x":  61, "y": 120, "type": 1, "active": 1},
+    {"x": 129, "y": 130, "type": 1, "active": 1},
+    {"x":  81, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 100, "y": 126, "active": 1},
+    {"x": 131, "y":  95, "active": 1},
+    {"x": 203, "y":  52, "active": 1},
+    {"x": 151, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 109,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  70,
+    "oxygen":  766,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 150, "y":  40, "direction": 0, "active": 1},
+    {"x": 100, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 120, "y":  55, "direction": 1, "active": 1},
+    {"x": 190, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  39, "y": 100, "active": 1},
+    {"x": 180, "y":  75, "active": 1},
+    {"x":  39, "y": 100, "active": 1},
+    {"x": 200, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  40, "y": 100, "type": 1, "active": 1},
+    {"x": 110, "y": 110, "type": 0, "active": 1},
+    {"x":  60, "y": 120, "type": 1, "active": 1},
+    {"x": 130, "y": 130, "type": 1, "active": 1},
+    {"x":  80, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 126, "y":  12, "active": 1},
+    {"x": 130, "y":  95, "active": 1},
+    {"x": 204, "y":  52, "active": 1},
+    {"x": 150, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 110,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  71,
+    "oxygen":  765,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 151, "y":  40, "direction": 0, "active": 1},
+    {"x":  99, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 119, "y":  55, "direction": 1, "active": 1},
+    {"x": 191, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  38, "y": 100, "active": 1},
+    {"x": 179, "y":  75, "active": 1},
+    {"x":  38, "y": 100, "active": 1},
+    {"x": 199, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  39, "y": 100, "type": 1, "active": 1},
+    {"x": 111, "y": 110, "type": 0, "active": 1},
+    {"x":  59, "y": 120, "type": 1, "active": 1},
+    {"x": 131, "y": 130, "type": 1, "active": 1},
+    {"x":  79, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 172, "y":  45, "active": 1},
+    {"x": 129, "y":  95, "active": 1},
+    {"x": 205, "y":  52, "active": 1},
+    {"x": 149, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 111,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  71,
+    "oxygen":  764,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 151, "y":  40, "direction": 0, "active": 1},
+    {"x":  99, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 119, "y":  55, "direction": 1, "active": 1},
+    {"x": 191, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  38, "y": 100, "active": 1},
+    {"x": 179, "y":  75, "active": 1},
+    {"x":  38, "y": 100, "active": 1},
+    {"x": 199, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  39, "y": 100, "type": 1, "active": 1},
+    {"x": 111, "y": 110, "type": 0, "active": 1},
+    {"x":  59, "y": 120, "type": 1, "active": 1},
+    {"x": 131, "y": 130, "type": 1, "active": 1},
+    {"x":  79, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 172, "y":  45, "active": 1},
+    {"x": 129, "y":  95, "active": 1},
+    {"x": 205, "y":  52, "active": 1},
+    {"x": 149, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 111,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  71,
+    "oxygen":  763,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 151, "y":  40, "direction": 0, "active": 1},
+    {"x":  99, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 119, "y":  55, "direction": 1, "active": 1},
+    {"x": 191, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  38, "y": 100, "active": 1},
+    {"x": 179, "y":  75, "active": 1},
+    {"x":  38, "y": 100, "active": 1},
+    {"x": 199, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  39, "y": 100, "type": 1, "active": 1},
+    {"x": 111, "y": 110, "type": 0, "active": 1},
+    {"x":  59, "y": 120, "type": 1, "active": 1},
+    {"x": 131, "y": 130, "type": 1, "active": 1},
+    {"x":  79, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 172, "y":  45, "active": 1},
+    {"x": 129, "y":  95, "active": 1},
+    {"x": 205, "y":  52, "active": 1},
+    {"x": 149, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 111,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  72,
+    "oxygen":  762,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 152, "y":  40, "direction": 0, "active": 1},
+    {"x":  98, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 118, "y":  55, "direction": 1, "active": 1},
+    {"x": 192, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  37, "y": 100, "active": 1},
+    {"x": 178, "y":  75, "active": 1},
+    {"x":  37, "y": 100, "active": 1},
+    {"x": 198, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  38, "y": 100, "type": 1, "active": 1},
+    {"x": 112, "y": 110, "type": 0, "active": 1},
+    {"x":  58, "y": 120, "type": 1, "active": 1},
+    {"x": 132, "y": 130, "type": 1, "active": 1},
+    {"x":  78, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 171, "y":  45, "active": 1},
+    {"x": 128, "y":  95, "active": 1},
+    {"x": 206, "y":  52, "active": 1},
+    {"x": 148, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 112,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  73,
+    "oxygen":  761,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 153, "y":  40, "direction": 0, "active": 1},
+    {"x":  97, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 117, "y":  55, "direction": 1, "active": 1},
+    {"x": 193, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  36, "y": 100, "active": 1},
+    {"x": 177, "y":  75, "active": 1},
+    {"x":  36, "y": 100, "active": 1},
+    {"x": 197, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  37, "y": 100, "type": 1, "active": 1},
+    {"x": 113, "y": 110, "type": 0, "active": 1},
+    {"x":  57, "y": 120, "type": 1, "active": 1},
+    {"x": 133, "y": 130, "type": 1, "active": 1},
+    {"x":  77, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 170, "y":  45, "active": 1},
+    {"x": 127, "y":  95, "active": 1},
+    {"x": 207, "y":  52, "active": 1},
+    {"x": 147, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 113,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  74,
+    "oxygen":  760,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 154, "y":  40, "direction": 0, "active": 1},
+    {"x":  96, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 116, "y":  55, "direction": 1, "active": 1},
+    {"x": 194, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  35, "y": 100, "active": 1},
+    {"x": 176, "y":  75, "active": 1},
+    {"x":  35, "y": 100, "active": 1},
+    {"x": 196, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  36, "y": 100, "type": 1, "active": 1},
+    {"x": 114, "y": 110, "type": 0, "active": 1},
+    {"x":  56, "y": 120, "type": 1, "active": 1},
+    {"x": 134, "y": 130, "type": 1, "active": 1},
+    {"x":  76, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  44, "y": 122, "active": 1},
+    {"x": 126, "y":  95, "active": 1},
+    {"x": 208, "y":  52, "active": 1},
+    {"x": 146, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 114,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  75,
+    "oxygen":  759,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 155, "y":  40, "direction": 0, "active": 1},
+    {"x":  95, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 115, "y":  55, "direction": 1, "active": 1},
+    {"x": 195, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  34, "y": 100, "active": 1},
+    {"x": 175, "y":  75, "active": 1},
+    {"x":  34, "y": 100, "active": 1},
+    {"x": 195, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  35, "y": 100, "type": 1, "active": 1},
+    {"x": 115, "y": 110, "type": 0, "active": 1},
+    {"x":  55, "y": 120, "type": 1, "active": 1},
+    {"x": 135, "y": 130, "type": 1, "active": 1},
+    {"x":  75, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 122, "y":   9, "active": 1},
+    {"x": 125, "y":  95, "active": 1},
+    {"x": 209, "y":  52, "active": 1},
+    {"x": 145, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 115,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  76,
+    "oxygen":  758,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 156, "y":  40, "direction": 0, "active": 1},
+    {"x":  94, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 114, "y":  55, "direction": 1, "active": 1},
+    {"x": 196, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  33, "y": 100, "active": 1},
+    {"x": 174, "y":  75, "active": 1},
+    {"x":  33, "y": 100, "active": 1},
+    {"x": 194, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  34, "y": 100, "type": 1, "active": 1},
+    {"x": 116, "y": 110, "type": 0, "active": 1},
+    {"x":  54, "y": 120, "type": 1, "active": 1},
+    {"x": 136, "y": 130, "type": 1, "active": 1},
+    {"x":  74, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 169, "y":  82, "active": 1},
+    {"x": 124, "y":  95, "active": 1},
+    {"x": 210, "y":  52, "active": 1},
+    {"x": 144, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 116,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  77,
+    "oxygen":  757,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 157, "y":  40, "direction": 0, "active": 1},
+    {"x":  93, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 113, "y":  55, "direction": 1, "active": 1},
+    {"x": 197, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  32, "y": 100, "active": 1},
+    {"x": 173, "y":  75, "active": 1},
+    {"x":  32, "y": 100, "active": 1},
+    {"x": 193, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  33, "y": 100, "type": 1, "active": 1},
+    {"x": 117, "y": 110, "type": 0, "active": 1},
+    {"x":  53, "y": 120, "type": 1, "active": 1},
+    {"x": 137, "y": 130, "type": 1, "active": 1},
+    {"x":  73, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  32, "y":  71, "active": 1},
+    {"x": 123, "y":  95, "active": 1},
+    {"x": 210, "y":  52, "active": 0},
+    {"x": 143, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 117,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  78,
+    "oxygen":  756,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 158, "y":  40, "direction": 0, "active": 1},
+    {"x":  92, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 112, "y":  55, "direction": 1, "active": 1},
+    {"x": 198, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  31, "y": 100, "active": 1},
+    {"x": 172, "y":  75, "active": 1},
+    {"x":  31, "y": 100, "active": 1},
+    {"x": 192, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  32, "y": 100, "type": 1, "active": 1},
+    {"x": 118, "y": 110, "type": 0, "active": 1},
+    {"x":  52, "y": 120, "type": 1, "active": 1},
+    {"x": 138, "y": 130, "type": 1, "active": 1},
+    {"x":  72, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  31, "y":  71, "active": 1},
+    {"x": 122, "y":  95, "active": 1},
+    {"x":  21, "y":  88, "active": 1},
+    {"x": 142, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 118,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  79,
+    "oxygen":  755,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 159, "y":  40, "direction": 0, "active": 1},
+    {"x":  91, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 111, "y":  55, "direction": 1, "active": 1},
+    {"x": 199, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  30, "y": 100, "active": 1},
+    {"x": 171, "y":  75, "active": 1},
+    {"x":  30, "y": 100, "active": 1},
+    {"x": 191, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  31, "y": 100, "type": 1, "active": 1},
+    {"x": 119, "y": 110, "type": 0, "active": 1},
+    {"x":  51, "y": 120, "type": 1, "active": 1},
+    {"x": 139, "y": 130, "type": 1, "active": 1},
+    {"x":  71, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  88, "y":  70, "active": 1},
+    {"x": 121, "y":  95, "active": 1},
+    {"x":  22, "y":  88, "active": 1},
+    {"x": 141, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 119,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  80,
+    "oxygen":  754,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 160, "y":  40, "direction": 0, "active": 1},
+    {"x":  90, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 110, "y":  55, "direction": 1, "active": 1},
+    {"x": 200, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  29, "y": 100, "active": 1},
+    {"x": 170, "y":  75, "active": 1},
+    {"x":  29, "y": 100, "active": 1},
+    {"x": 190, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  30, "y": 100, "type": 1, "active": 1},
+    {"x": 120, "y": 110, "type": 0, "active": 1},
+    {"x":  50, "y": 120, "type": 1, "active": 1},
+    {"x": 140, "y": 130, "type": 1, "active": 1},
+    {"x":  70, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  20, "y":   2, "active": 1},
+    {"x": 120, "y":  95, "active": 1},
+    {"x":  23, "y":  88, "active": 1},
+    {"x": 140, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 120,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  81,
+    "oxygen":  753,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 161, "y":  40, "direction": 0, "active": 1},
+    {"x":  89, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 109, "y":  55, "direction": 1, "active": 1},
+    {"x": 201, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  28, "y": 100, "active": 1},
+    {"x": 169, "y":  75, "active": 1},
+    {"x":  28, "y": 100, "active": 1},
+    {"x": 189, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  29, "y": 100, "type": 1, "active": 1},
+    {"x": 121, "y": 110, "type": 0, "active": 1},
+    {"x":  49, "y": 120, "type": 1, "active": 1},
+    {"x": 141, "y": 130, "type": 1, "active": 1},
+    {"x":  69, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 162, "y":  61, "active": 1},
+    {"x": 119, "y":  95, "active": 1},
+    {"x":  24, "y":  88, "active": 1},
+    {"x": 139, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 121,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  82,
+    "oxygen":  752,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 162, "y":  40, "direction": 0, "active": 1},
+    {"x":  88, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 108, "y":  55, "direction": 1, "active": 1},
+    {"x": 202, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  27, "y": 100, "active": 1},
+    {"x": 168, "y":  75, "active": 1},
+    {"x":  27, "y": 100, "active": 1},
+    {"x": 188, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  28, "y": 100, "type": 1, "active": 1},
+    {"x": 122, "y": 110, "type": 0, "active": 1},
+    {"x":  48, "y": 120, "type": 1, "active": 1},
+    {"x": 142, "y": 130, "type": 1, "active": 1},
+    {"x":  68, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  61, "y":   7, "active": 1},
+    {"x": 118, "y":  95, "active": 1},
+    {"x":  25, "y":  88, "active": 1},
+    {"x": 138, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 122,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  83,
+    "oxygen":  751,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 163, "y":  40, "direction": 0, "active": 1},
+    {"x":  87, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 107, "y":  55, "direction": 1, "active": 1},
+    {"x": 203, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  26, "y": 100, "active": 1},
+    {"x": 167, "y":  75, "active": 1},
+    {"x":  26, "y": 100, "active": 1},
+    {"x": 187, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  27, "y": 100, "type": 1, "active": 1},
+    {"x": 123, "y": 110, "type": 0, "active": 1},
+    {"x":  47, "y": 120, "type": 1, "active": 1},
+    {"x": 143, "y": 130, "type": 1, "active": 1},
+    {"x":  67, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 167, "y":  66, "active": 1},
+    {"x": 117, "y":  95, "active": 1},
+    {"x":  26, "y":  88, "active": 1},
+    {"x": 137, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 123,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  84,
+    "oxygen":  750,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 164, "y":  40, "direction": 0, "active": 1},
+    {"x":  86, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 106, "y":  55, "direction": 1, "active": 1},
+    {"x": 204, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  25, "y": 100, "active": 1},
+    {"x": 166, "y":  75, "active": 1},
+    {"x":  25, "y": 100, "active": 1},
+    {"x": 186, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  26, "y": 100, "type": 1, "active": 1},
+    {"x": 124, "y": 110, "type": 0, "active": 1},
+    {"x":  46, "y": 120, "type": 1, "active": 1},
+    {"x": 144, "y": 130, "type": 1, "active": 1},
+    {"x":  66, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  66, "y": 150, "active": 1},
+    {"x": 116, "y":  95, "active": 1},
+    {"x":  27, "y":  88, "active": 1},
+    {"x": 136, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 124,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  85,
+    "oxygen":  749,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 165, "y":  40, "direction": 0, "active": 1},
+    {"x":  85, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 105, "y":  55, "direction": 1, "active": 1},
+    {"x": 205, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  24, "y": 100, "active": 1},
+    {"x": 165, "y":  75, "active": 1},
+    {"x":  24, "y": 100, "active": 1},
+    {"x": 185, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  25, "y": 100, "type": 1, "active": 1},
+    {"x": 125, "y": 110, "type": 0, "active": 1},
+    {"x":  45, "y": 120, "type": 1, "active": 1},
+    {"x": 145, "y": 130, "type": 1, "active": 1},
+    {"x":  65, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 150, "y":  42, "active": 1},
+    {"x": 115, "y":  95, "active": 1},
+    {"x":  28, "y":  88, "active": 1},
+    {"x": 135, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 125,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  85,
+    "oxygen":  748,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 165, "y":  40, "direction": 0, "active": 1},
+    {"x":  85, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 105, "y":  55, "direction": 1, "active": 1},
+    {"x": 205, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  24, "y": 100, "active": 1},
+    {"x": 165, "y":  75, "active": 1},
+    {"x":  24, "y": 100, "active": 1},
+    {"x": 185, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  25, "y": 100, "type": 1, "active": 1},
+    {"x": 125, "y": 110, "type": 0, "active": 1},
+    {"x":  45, "y": 120, "type": 1, "active": 1},
+    {"x": 145, "y": 130, "type": 1, "active": 1},
+    {"x":  65, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 150, "y":  42, "active": 1},
+    {"x": 115, "y":  95, "active": 1},
+    {"x":  28, "y":  88, "active": 1},
+    {"x": 135, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 125,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  85,
+    "oxygen":  747,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 165, "y":  40, "direction": 0, "active": 1},
+    {"x":  85, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 105, "y":  55, "direction": 1, "active": 1},
+    {"x": 205, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  24, "y": 100, "active": 1},
+    {"x": 165, "y":  75, "active": 1},
+    {"x":  24, "y": 100, "active": 1},
+    {"x": 185, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  25, "y": 100, "type": 1, "active": 1},
+    {"x": 125, "y": 110, "type": 0, "active": 1},
+    {"x":  45, "y": 120, "type": 1, "active": 1},
+    {"x": 145, "y": 130, "type": 1, "active": 1},
+    {"x":  65, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 150, "y":  42, "active": 1},
+    {"x": 115, "y":  95, "active": 1},
+    {"x":  28, "y":  88, "active": 1},
+    {"x": 135, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 125,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  86,
+    "oxygen":  746,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 166, "y":  40, "direction": 0, "active": 1},
+    {"x":  84, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 104, "y":  55, "direction": 1, "active": 1},
+    {"x": 206, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  23, "y": 100, "active": 1},
+    {"x": 164, "y":  75, "active": 1},
+    {"x":  23, "y": 100, "active": 1},
+    {"x": 184, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  24, "y": 100, "type": 1, "active": 1},
+    {"x": 126, "y": 110, "type": 0, "active": 1},
+    {"x":  44, "y": 120, "type": 1, "active": 1},
+    {"x": 146, "y": 130, "type": 1, "active": 1},
+    {"x":  64, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 151, "y":  42, "active": 1},
+    {"x": 114, "y":  95, "active": 1},
+    {"x":  29, "y":  88, "active": 1},
+    {"x": 134, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 126,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  87,
+    "oxygen":  745,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 167, "y":  40, "direction": 0, "active": 1},
+    {"x":  83, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 103, "y":  55, "direction": 1, "active": 1},
+    {"x": 207, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  22, "y": 100, "active": 1},
+    {"x": 163, "y":  75, "active": 1},
+    {"x":  22, "y": 100, "active": 1},
+    {"x": 183, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  23, "y": 100, "type": 1, "active": 1},
+    {"x": 127, "y": 110, "type": 0, "active": 1},
+    {"x":  43, "y": 120, "type": 1, "active": 1},
+    {"x": 147, "y": 130, "type": 1, "active": 1},
+    {"x":  63, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 152, "y":  42, "active": 1},
+    {"x": 113, "y":  95, "active": 1},
+    {"x":  30, "y":  88, "active": 1},
+    {"x": 133, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 127,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  88,
+    "oxygen":  744,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 168, "y":  40, "direction": 0, "active": 1},
+    {"x":  82, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 102, "y":  55, "direction": 1, "active": 1},
+    {"x": 208, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  21, "y": 100, "active": 1},
+    {"x": 162, "y":  75, "active": 1},
+    {"x":  21, "y": 100, "active": 1},
+    {"x": 182, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  22, "y": 100, "type": 1, "active": 1},
+    {"x": 128, "y": 110, "type": 0, "active": 1},
+    {"x":  42, "y": 120, "type": 1, "active": 1},
+    {"x": 148, "y": 130, "type": 1, "active": 1},
+    {"x":  62, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  21, "y": 110, "active": 1},
+    {"x": 112, "y":  95, "active": 1},
+    {"x":  31, "y":  88, "active": 1},
+    {"x": 132, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 128,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  89,
+    "oxygen":  743,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 169, "y":  40, "direction": 0, "active": 1},
+    {"x":  81, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 101, "y":  55, "direction": 1, "active": 1},
+    {"x": 209, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  20, "y": 100, "active": 1},
+    {"x": 161, "y":  75, "active": 1},
+    {"x":  20, "y": 100, "active": 1},
+    {"x": 181, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  21, "y": 100, "type": 1, "active": 1},
+    {"x": 129, "y": 110, "type": 0, "active": 1},
+    {"x":  41, "y": 120, "type": 1, "active": 1},
+    {"x": 149, "y": 130, "type": 1, "active": 1},
+    {"x":  61, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 110, "y":  51, "active": 1},
+    {"x": 111, "y":  95, "active": 1},
+    {"x":  32, "y":  88, "active": 1},
+    {"x": 131, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 129,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  90,
+    "oxygen":  742,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 170, "y":  40, "direction": 0, "active": 1},
+    {"x":  80, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x": 100, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 1} 
+  ],
+  "enemy_bullets": [
+    {"x":  19, "y": 100, "active": 1},
+    {"x": 160, "y":  75, "active": 1},
+    {"x":  19, "y": 100, "active": 1},
+    {"x": 180, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  20, "y": 100, "type": 1, "active": 1},
+    {"x": 130, "y": 110, "type": 0, "active": 1},
+    {"x":  40, "y": 120, "type": 1, "active": 1},
+    {"x": 150, "y": 130, "type": 1, "active": 1},
+    {"x":  60, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  51, "y":  44, "active": 1},
+    {"x": 110, "y":  95, "active": 1},
+    {"x":  33, "y":  88, "active": 1},
+    {"x": 130, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 130,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  91,
+    "oxygen":  741,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 171, "y":  40, "direction": 0, "active": 1},
+    {"x":  79, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  99, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  18, "y": 100, "active": 1},
+    {"x": 159, "y":  75, "active": 1},
+    {"x":  18, "y": 100, "active": 1},
+    {"x": 179, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  19, "y": 100, "type": 1, "active": 1},
+    {"x": 131, "y": 110, "type": 0, "active": 1},
+    {"x":  39, "y": 120, "type": 1, "active": 1},
+    {"x": 151, "y": 130, "type": 1, "active": 1},
+    {"x":  59, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  44, "y":  65, "active": 1},
+    {"x": 109, "y":  95, "active": 1},
+    {"x":  34, "y":  88, "active": 1},
+    {"x": 129, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 131,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  92,
+    "oxygen":  740,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 172, "y":  40, "direction": 0, "active": 1},
+    {"x":  78, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  98, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  17, "y": 100, "active": 1},
+    {"x": 158, "y":  75, "active": 1},
+    {"x":  17, "y": 100, "active": 1},
+    {"x": 178, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  18, "y": 100, "type": 1, "active": 1},
+    {"x": 132, "y": 110, "type": 0, "active": 1},
+    {"x":  38, "y": 120, "type": 1, "active": 1},
+    {"x": 152, "y": 130, "type": 1, "active": 1},
+    {"x":  58, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  15, "y":  54, "active": 1},
+    {"x": 108, "y":  95, "active": 1},
+    {"x":  35, "y":  88, "active": 1},
+    {"x": 128, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 132,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  93,
+    "oxygen":  739,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 173, "y":  40, "direction": 0, "active": 1},
+    {"x":  77, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  97, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  16, "y": 100, "active": 1},
+    {"x": 157, "y":  75, "active": 1},
+    {"x":  16, "y": 100, "active": 1},
+    {"x": 177, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  17, "y": 100, "type": 1, "active": 1},
+    {"x": 133, "y": 110, "type": 0, "active": 1},
+    {"x":  37, "y": 120, "type": 1, "active": 1},
+    {"x": 153, "y": 130, "type": 1, "active": 1},
+    {"x":  57, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":   4, "y": 136, "active": 1},
+    {"x": 107, "y":  95, "active": 1},
+    {"x":  36, "y":  88, "active": 1},
+    {"x": 127, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 133,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  94,
+    "oxygen":  738,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 174, "y":  40, "direction": 0, "active": 1},
+    {"x":  76, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  96, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  15, "y": 100, "active": 1},
+    {"x": 156, "y":  75, "active": 1},
+    {"x":  15, "y": 100, "active": 1},
+    {"x": 176, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  16, "y": 100, "type": 1, "active": 1},
+    {"x": 134, "y": 110, "type": 0, "active": 1},
+    {"x":  36, "y": 120, "type": 1, "active": 1},
+    {"x": 154, "y": 130, "type": 1, "active": 1},
+    {"x":  56, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 136, "y": 102, "active": 1},
+    {"x": 106, "y":  95, "active": 1},
+    {"x":  37, "y":  88, "active": 1},
+    {"x": 126, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 134,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  95,
+    "oxygen":  737,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 175, "y":  40, "direction": 0, "active": 1},
+    {"x":  75, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  95, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  14, "y": 100, "active": 1},
+    {"x": 155, "y":  75, "active": 1},
+    {"x":  14, "y": 100, "active": 1},
+    {"x": 175, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  15, "y": 100, "type": 1, "active": 1},
+    {"x": 135, "y": 110, "type": 0, "active": 1},
+    {"x":  35, "y": 120, "type": 1, "active": 1},
+    {"x": 155, "y": 130, "type": 1, "active": 1},
+    {"x":  55, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 102, "y":  20, "active": 1},
+    {"x": 105, "y":  95, "active": 1},
+    {"x":  38, "y":  88, "active": 1},
+    {"x": 125, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 135,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  96,
+    "oxygen":  736,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 176, "y":  40, "direction": 0, "active": 1},
+    {"x":  74, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  94, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  13, "y": 100, "active": 1},
+    {"x": 154, "y":  75, "active": 1},
+    {"x":  13, "y": 100, "active": 1},
+    {"x": 174, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  14, "y": 100, "type": 1, "active": 1},
+    {"x": 136, "y": 110, "type": 0, "active": 1},
+    {"x":  34, "y": 120, "type": 1, "active": 1},
+    {"x": 156, "y": 130, "type": 1, "active": 1},
+    {"x":  54, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 180, "y":  24, "active": 1},
+    {"x": 104, "y":  95, "active": 1},
+    {"x":  39, "y":  88, "active": 1},
+    {"x": 124, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 136,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  97,
+    "oxygen":  735,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 177, "y":  40, "direction": 0, "active": 1},
+    {"x":  73, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  93, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  12, "y": 100, "active": 1},
+    {"x": 153, "y":  75, "active": 1},
+    {"x":  12, "y": 100, "active": 1},
+    {"x": 173, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  13, "y": 100, "type": 1, "active": 1},
+    {"x": 137, "y": 110, "type": 0, "active": 1},
+    {"x":  33, "y": 120, "type": 1, "active": 1},
+    {"x": 157, "y": 130, "type": 1, "active": 1},
+    {"x":  53, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  24, "y":  99, "active": 1},
+    {"x": 103, "y":  95, "active": 1},
+    {"x":  40, "y":  88, "active": 1},
+    {"x": 123, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 137,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  98,
+    "oxygen":  734,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 178, "y":  40, "direction": 0, "active": 1},
+    {"x":  72, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  92, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  11, "y": 100, "active": 1},
+    {"x": 152, "y":  75, "active": 1},
+    {"x":  11, "y": 100, "active": 1},
+    {"x": 172, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  12, "y": 100, "type": 1, "active": 1},
+    {"x": 138, "y": 110, "type": 0, "active": 1},
+    {"x":  32, "y": 120, "type": 1, "active": 1},
+    {"x": 158, "y": 130, "type": 1, "active": 1},
+    {"x":  52, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  99, "y":  99, "active": 1},
+    {"x": 102, "y":  95, "active": 1},
+    {"x":  41, "y":  88, "active": 1},
+    {"x": 122, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 138,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  99,
+    "oxygen":  733,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 179, "y":  40, "direction": 0, "active": 1},
+    {"x":  71, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  91, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  10, "y": 100, "active": 1},
+    {"x": 151, "y":  75, "active": 1},
+    {"x":  10, "y": 100, "active": 1},
+    {"x": 171, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  11, "y": 100, "type": 1, "active": 1},
+    {"x": 139, "y": 110, "type": 0, "active": 1},
+    {"x":  31, "y": 120, "type": 1, "active": 1},
+    {"x": 159, "y": 130, "type": 1, "active": 1},
+    {"x":  51, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  99, "y": 140, "active": 1},
+    {"x": 101, "y":  95, "active": 1},
+    {"x":  42, "y":  88, "active": 1},
+    {"x": 121, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 139,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  99,
+    "oxygen":  732,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 179, "y":  40, "direction": 0, "active": 1},
+    {"x":  71, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  91, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  10, "y": 100, "active": 1},
+    {"x": 151, "y":  75, "active": 1},
+    {"x":  10, "y": 100, "active": 1},
+    {"x": 171, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  11, "y": 100, "type": 1, "active": 1},
+    {"x": 139, "y": 110, "type": 0, "active": 1},
+    {"x":  31, "y": 120, "type": 1, "active": 1},
+    {"x": 159, "y": 130, "type": 1, "active": 1},
+    {"x":  51, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  99, "y": 140, "active": 1},
+    {"x": 101, "y":  95, "active": 1},
+    {"x":  42, "y":  88, "active": 1},
+    {"x": 121, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 139,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y":  99,
+    "oxygen":  731,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 179, "y":  40, "direction": 0, "active": 1},
+    {"x":  71, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  91, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":  10, "y": 100, "active": 1},
+    {"x": 151, "y":  75, "active": 1},
+    {"x":  10, "y": 100, "active": 1},
+    {"x": 171, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  11, "y": 100, "type": 1, "active": 1},
+    {"x": 139, "y": 110, "type": 0, "active": 1},
+    {"x":  31, "y": 120, "type": 1, "active": 1},
+    {"x": 159, "y": 130, "type": 1, "active": 1},
+    {"x":  51, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  99, "y": 140, "active": 1},
+    {"x": 101, "y":  95, "active": 1},
+    {"x":  42, "y":  88, "active": 1},
+    {"x": 121, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 139,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 100,
+    "oxygen":  730,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 180, "y":  40, "direction": 0, "active": 1},
+    {"x":  70, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  90, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   9, "y": 100, "active": 1},
+    {"x": 150, "y":  75, "active": 1},
+    {"x":   9, "y": 100, "active": 1},
+    {"x": 170, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":  10, "y": 100, "type": 1, "active": 1},
+    {"x": 140, "y": 110, "type": 0, "active": 1},
+    {"x":  30, "y": 120, "type": 1, "active": 1},
+    {"x": 160, "y": 130, "type": 1, "active": 1},
+    {"x":  50, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 100, "y": 140, "active": 1},
+    {"x": 100, "y":  95, "active": 1},
+    {"x":  43, "y":  88, "active": 1},
+    {"x": 120, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 140,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 101,
+    "oxygen":  729,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 181, "y":  40, "direction": 0, "active": 1},
+    {"x":  69, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  89, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   8, "y": 100, "active": 1},
+    {"x": 149, "y":  75, "active": 1},
+    {"x":   8, "y": 100, "active": 1},
+    {"x": 169, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   9, "y": 100, "type": 1, "active": 1},
+    {"x": 141, "y": 110, "type": 0, "active": 1},
+    {"x":  29, "y": 120, "type": 1, "active": 1},
+    {"x": 161, "y": 130, "type": 1, "active": 1},
+    {"x":  49, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 101, "y": 140, "active": 1},
+    {"x":  99, "y":  95, "active": 1},
+    {"x":  44, "y":  88, "active": 1},
+    {"x": 119, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 141,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 102,
+    "oxygen":  728,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 182, "y":  40, "direction": 0, "active": 1},
+    {"x":  68, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  88, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   7, "y": 100, "active": 1},
+    {"x": 148, "y":  75, "active": 1},
+    {"x":   7, "y": 100, "active": 1},
+    {"x": 168, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   8, "y": 100, "type": 1, "active": 1},
+    {"x": 142, "y": 110, "type": 0, "active": 1},
+    {"x":  28, "y": 120, "type": 1, "active": 1},
+    {"x": 162, "y": 130, "type": 1, "active": 1},
+    {"x":  48, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 193, "y": 140, "active": 1},
+    {"x":  98, "y":  95, "active": 1},
+    {"x":  45, "y":  88, "active": 1},
+    {"x": 118, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 142,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 103,
+    "oxygen":  727,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 183, "y":  40, "direction": 0, "active": 1},
+    {"x":  67, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  87, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   6, "y": 100, "active": 1},
+    {"x": 147, "y":  75, "active": 1},
+    {"x":   6, "y": 100, "active": 1},
+    {"x": 167, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   7, "y": 100, "type": 1, "active": 1},
+    {"x": 143, "y": 110, "type": 0, "active": 1},
+    {"x":  27, "y": 120, "type": 1, "active": 1},
+    {"x": 163, "y": 130, "type": 1, "active": 1},
+    {"x":  47, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 140, "y":  42, "active": 1},
+    {"x":  97, "y":  95, "active": 1},
+    {"x":  46, "y":  88, "active": 1},
+    {"x": 117, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 143,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 104,
+    "oxygen":  726,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 184, "y":  40, "direction": 0, "active": 1},
+    {"x":  66, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  86, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   5, "y": 100, "active": 1},
+    {"x": 146, "y":  75, "active": 1},
+    {"x":   5, "y": 100, "active": 1},
+    {"x": 166, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   6, "y": 100, "type": 1, "active": 1},
+    {"x": 144, "y": 110, "type": 0, "active": 1},
+    {"x":  26, "y": 120, "type": 1, "active": 1},
+    {"x": 164, "y": 130, "type": 1, "active": 1},
+    {"x":  46, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 202, "y":  47, "active": 1},
+    {"x":  96, "y":  95, "active": 1},
+    {"x":  47, "y":  88, "active": 1},
+    {"x": 116, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 144,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 105,
+    "oxygen":  725,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 185, "y":  40, "direction": 0, "active": 1},
+    {"x":  65, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  85, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   4, "y": 100, "active": 1},
+    {"x": 145, "y":  75, "active": 1},
+    {"x":   4, "y": 100, "active": 1},
+    {"x": 165, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   5, "y": 100, "type": 1, "active": 1},
+    {"x": 145, "y": 110, "type": 0, "active": 1},
+    {"x":  25, "y": 120, "type": 1, "active": 1},
+    {"x": 165, "y": 130, "type": 1, "active": 1},
+    {"x":  45, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  47, "y":  45, "active": 1},
+    {"x":  95, "y":  95, "active": 1},
+    {"x":  48, "y":  88, "active": 1},
+    {"x": 115, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 145,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 106,
+    "oxygen":  724,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 186, "y":  40, "direction": 0, "active": 1},
+    {"x":  64, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  84, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   3, "y": 100, "active": 1},
+    {"x": 144, "y":  75, "active": 1},
+    {"x":   3, "y": 100, "active": 1},
+    {"x": 164, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   4, "y": 100, "type": 1, "active": 1},
+    {"x": 146, "y": 110, "type": 0, "active": 1},
+    {"x":  24, "y": 120, "type": 1, "active": 1},
+    {"x": 166, "y": 130, "type": 1, "active": 1},
+    {"x":  44, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  45, "y":  43, "active": 1},
+    {"x":  94, "y":  95, "active": 1},
+    {"x":  49, "y":  88, "active": 1},
+    {"x": 114, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 146,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 107,
+    "oxygen":  723,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 187, "y":  40, "direction": 0, "active": 1},
+    {"x":  63, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  83, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   2, "y": 100, "active": 1},
+    {"x": 143, "y":  75, "active": 1},
+    {"x":   2, "y": 100, "active": 1},
+    {"x": 163, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   3, "y": 100, "type": 1, "active": 1},
+    {"x": 147, "y": 110, "type": 0, "active": 1},
+    {"x":  23, "y": 120, "type": 1, "active": 1},
+    {"x": 167, "y": 130, "type": 1, "active": 1},
+    {"x":  43, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 203, "y":  93, "active": 1},
+    {"x":  93, "y":  95, "active": 1},
+    {"x":  50, "y":  88, "active": 1},
+    {"x": 113, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 147,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 108,
+    "oxygen":  722,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 188, "y":  40, "direction": 0, "active": 1},
+    {"x":  62, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  82, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   1, "y": 100, "active": 1},
+    {"x": 142, "y":  75, "active": 1},
+    {"x":   1, "y": 100, "active": 1},
+    {"x": 162, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   2, "y": 100, "type": 1, "active": 1},
+    {"x": 148, "y": 110, "type": 0, "active": 1},
+    {"x":  22, "y": 120, "type": 1, "active": 1},
+    {"x": 168, "y": 130, "type": 1, "active": 1},
+    {"x":  42, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  43, "y": 103, "active": 1},
+    {"x":  92, "y":  95, "active": 1},
+    {"x":  51, "y":  88, "active": 1},
+    {"x": 112, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 148,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 109,
+    "oxygen":  721,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 189, "y":  40, "direction": 0, "active": 1},
+    {"x":  61, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  81, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 1},
+    {"x": 141, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 1},
+    {"x": 161, "y":  85, "active": 1},
+    {"x": 239, "y":  90, "active": 0} 
+  ],
+  "enemies": [
+    {"x":   1, "y": 100, "type": 1, "active": 1},
+    {"x": 149, "y": 110, "type": 0, "active": 1},
+    {"x":  21, "y": 120, "type": 1, "active": 1},
+    {"x": 169, "y": 130, "type": 1, "active": 1},
+    {"x":  41, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 103, "y":  28, "active": 1},
+    {"x":  91, "y":  95, "active": 1},
+    {"x":  52, "y":  88, "active": 1},
+    {"x": 111, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 149,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 110,
+    "oxygen":  720,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 190, "y":  40, "direction": 0, "active": 1},
+    {"x":  60, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  80, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 140, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 160, "y":  85, "active": 1},
+    {"x": 255, "y": 100, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 1},
+    {"x": 150, "y": 110, "type": 0, "active": 1},
+    {"x":  20, "y": 120, "type": 1, "active": 1},
+    {"x": 170, "y": 130, "type": 1, "active": 1},
+    {"x":  40, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  28, "y":  22, "active": 1},
+    {"x":  90, "y":  95, "active": 1},
+    {"x":  53, "y":  88, "active": 1},
+    {"x": 110, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 150,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 111,
+    "oxygen":  719,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 191, "y":  40, "direction": 0, "active": 1},
+    {"x":  59, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  79, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 139, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 159, "y":  85, "active": 1},
+    {"x": 254, "y": 100, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 151, "y": 110, "type": 0, "active": 1},
+    {"x":  19, "y": 120, "type": 1, "active": 1},
+    {"x": 171, "y": 130, "type": 1, "active": 1},
+    {"x":  39, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  22, "y":  50, "active": 1},
+    {"x":  89, "y":  95, "active": 1},
+    {"x":  54, "y":  88, "active": 1},
+    {"x": 109, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 151,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 112,
+    "oxygen":  718,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 192, "y":  40, "direction": 0, "active": 1},
+    {"x":  58, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  78, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 138, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 158, "y":  85, "active": 1},
+    {"x":  17, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 152, "y": 110, "type": 0, "active": 1},
+    {"x":  18, "y": 120, "type": 1, "active": 1},
+    {"x": 172, "y": 130, "type": 1, "active": 1},
+    {"x":  38, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":   0, "y":  78, "active": 1},
+    {"x":  88, "y":  95, "active": 1},
+    {"x":  55, "y":  88, "active": 1},
+    {"x": 108, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 152,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 113,
+    "oxygen":  717,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 193, "y":  40, "direction": 0, "active": 1},
+    {"x":  57, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  77, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 137, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 157, "y":  85, "active": 1},
+    {"x":  16, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 153, "y": 110, "type": 0, "active": 1},
+    {"x":  17, "y": 120, "type": 1, "active": 1},
+    {"x": 173, "y": 130, "type": 1, "active": 1},
+    {"x":  37, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  28, "y":  62, "active": 1},
+    {"x":  87, "y":  95, "active": 1},
+    {"x":  56, "y":  88, "active": 1},
+    {"x": 107, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 153,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 113,
+    "oxygen":  716,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 193, "y":  40, "direction": 0, "active": 1},
+    {"x":  57, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  77, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 137, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 157, "y":  85, "active": 1},
+    {"x":  16, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 153, "y": 110, "type": 0, "active": 1},
+    {"x":  17, "y": 120, "type": 1, "active": 1},
+    {"x": 173, "y": 130, "type": 1, "active": 1},
+    {"x":  37, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  28, "y":  62, "active": 1},
+    {"x":  87, "y":  95, "active": 1},
+    {"x":  56, "y":  88, "active": 1},
+    {"x": 107, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 153,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 113,
+    "oxygen":  715,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 193, "y":  40, "direction": 0, "active": 1},
+    {"x":  57, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  77, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 137, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 157, "y":  85, "active": 1},
+    {"x":  16, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 153, "y": 110, "type": 0, "active": 1},
+    {"x":  17, "y": 120, "type": 1, "active": 1},
+    {"x": 173, "y": 130, "type": 1, "active": 1},
+    {"x":  37, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  28, "y":  62, "active": 1},
+    {"x":  87, "y":  95, "active": 1},
+    {"x":  56, "y":  88, "active": 1},
+    {"x": 107, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 153,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 114,
+    "oxygen":  714,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 194, "y":  40, "direction": 0, "active": 1},
+    {"x":  56, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  76, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 136, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 156, "y":  85, "active": 1},
+    {"x":  15, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 154, "y": 110, "type": 0, "active": 1},
+    {"x":  16, "y": 120, "type": 1, "active": 1},
+    {"x": 174, "y": 130, "type": 1, "active": 1},
+    {"x":  36, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  27, "y":  62, "active": 1},
+    {"x":  86, "y":  95, "active": 1},
+    {"x":  57, "y":  88, "active": 1},
+    {"x": 106, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 154,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 115,
+    "oxygen":  713,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 195, "y":  40, "direction": 0, "active": 1},
+    {"x":  55, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  75, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 135, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 155, "y":  85, "active": 1},
+    {"x":  14, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 155, "y": 110, "type": 0, "active": 1},
+    {"x":  15, "y": 120, "type": 1, "active": 1},
+    {"x": 175, "y": 130, "type": 1, "active": 1},
+    {"x":  35, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  26, "y":  62, "active": 1},
+    {"x":  85, "y":  95, "active": 1},
+    {"x":  58, "y":  88, "active": 1},
+    {"x": 105, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 155,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 116,
+    "oxygen":  712,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 196, "y":  40, "direction": 0, "active": 1},
+    {"x":  54, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  74, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 134, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 154, "y":  85, "active": 1},
+    {"x":  13, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 156, "y": 110, "type": 0, "active": 1},
+    {"x":  14, "y": 120, "type": 1, "active": 1},
+    {"x": 176, "y": 130, "type": 1, "active": 1},
+    {"x":  34, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  25, "y":  30, "active": 1},
+    {"x":  84, "y":  95, "active": 1},
+    {"x":  59, "y":  88, "active": 1},
+    {"x": 104, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 156,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 117,
+    "oxygen":  711,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 197, "y":  40, "direction": 0, "active": 1},
+    {"x":  53, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  73, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 133, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 153, "y":  85, "active": 1},
+    {"x":  12, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 157, "y": 110, "type": 0, "active": 1},
+    {"x":  13, "y": 120, "type": 1, "active": 1},
+    {"x": 177, "y": 130, "type": 1, "active": 1},
+    {"x":  33, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  30, "y":  99, "active": 1},
+    {"x":  83, "y":  95, "active": 1},
+    {"x":  60, "y":  88, "active": 1},
+    {"x": 103, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 157,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 118,
+    "oxygen":  710,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 198, "y":  40, "direction": 0, "active": 1},
+    {"x":  52, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  72, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 132, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 152, "y":  85, "active": 1},
+    {"x":  11, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 158, "y": 110, "type": 0, "active": 1},
+    {"x":  12, "y": 120, "type": 1, "active": 1},
+    {"x": 178, "y": 130, "type": 1, "active": 1},
+    {"x":  32, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  99, "y":  65, "active": 1},
+    {"x":  82, "y":  95, "active": 1},
+    {"x":  61, "y":  88, "active": 1},
+    {"x": 102, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 158,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 119,
+    "oxygen":  709,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 199, "y":  40, "direction": 0, "active": 1},
+    {"x":  51, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  71, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 131, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 151, "y":  85, "active": 1},
+    {"x":  10, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 159, "y": 110, "type": 0, "active": 1},
+    {"x":  11, "y": 120, "type": 1, "active": 1},
+    {"x": 179, "y": 130, "type": 1, "active": 1},
+    {"x":  31, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  15, "y": 125, "active": 1},
+    {"x":  81, "y":  95, "active": 1},
+    {"x":  62, "y":  88, "active": 1},
+    {"x": 101, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 159,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 120,
+    "oxygen":  708,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 200, "y":  40, "direction": 0, "active": 1},
+    {"x":  50, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  70, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 130, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 150, "y":  85, "active": 1},
+    {"x":   9, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 160, "y": 110, "type": 0, "active": 1},
+    {"x":  10, "y": 120, "type": 1, "active": 1},
+    {"x": 180, "y": 130, "type": 1, "active": 1},
+    {"x":  30, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 125, "y":  88, "active": 1},
+    {"x":  80, "y":  95, "active": 1},
+    {"x":  63, "y":  88, "active": 1},
+    {"x": 100, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 160,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 121,
+    "oxygen":  707,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 201, "y":  40, "direction": 0, "active": 1},
+    {"x":  49, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  69, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 129, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 149, "y":  85, "active": 1},
+    {"x":   8, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 161, "y": 110, "type": 0, "active": 1},
+    {"x":   9, "y": 120, "type": 1, "active": 1},
+    {"x": 181, "y": 130, "type": 1, "active": 1},
+    {"x":  29, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  88, "y":  22, "active": 1},
+    {"x":  79, "y":  95, "active": 1},
+    {"x":  64, "y":  88, "active": 1},
+    {"x":  99, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 161,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 122,
+    "oxygen":  706,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 202, "y":  40, "direction": 0, "active": 1},
+    {"x":  48, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  68, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 128, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 148, "y":  85, "active": 1},
+    {"x":   7, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 162, "y": 110, "type": 0, "active": 1},
+    {"x":   8, "y": 120, "type": 1, "active": 1},
+    {"x": 182, "y": 130, "type": 1, "active": 1},
+    {"x":  28, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x":  22, "y":  40, "active": 1},
+    {"x":  78, "y":  95, "active": 1},
+    {"x":  65, "y":  88, "active": 1},
+    {"x":  98, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 162,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 123,
+    "oxygen":  705,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 203, "y":  40, "direction": 0, "active": 1},
+    {"x":  47, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  67, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 127, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 147, "y":  85, "active": 1},
+    {"x":   6, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 163, "y": 110, "type": 0, "active": 1},
+    {"x":   7, "y": 120, "type": 1, "active": 1},
+    {"x": 183, "y": 130, "type": 1, "active": 1},
+    {"x":  27, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 200, "y": 138, "active": 1},
+    {"x":  77, "y":  95, "active": 1},
+    {"x":  66, "y":  88, "active": 1},
+    {"x":  97, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 163,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 124,
+    "oxygen":  704,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 204, "y":  40, "direction": 0, "active": 1},
+    {"x":  46, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  66, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 126, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 146, "y":  85, "active": 1},
+    {"x":   5, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 164, "y": 110, "type": 0, "active": 1},
+    {"x":   6, "y": 120, "type": 1, "active": 1},
+    {"x": 184, "y": 130, "type": 1, "active": 1},
+    {"x":  26, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 138, "y":  21, "active": 1},
+    {"x":  76, "y":  95, "active": 1},
+    {"x":  67, "y":  88, "active": 1},
+    {"x":  96, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 164,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 125,
+    "oxygen":  703,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 205, "y":  40, "direction": 0, "active": 1},
+    {"x":  45, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  65, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 125, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 145, "y":  85, "active": 1},
+    {"x":   4, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 165, "y": 110, "type": 0, "active": 1},
+    {"x":   5, "y": 120, "type": 1, "active": 1},
+    {"x": 185, "y": 130, "type": 1, "active": 1},
+    {"x":  25, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 181, "y":  31, "active": 1},
+    {"x":  75, "y":  95, "active": 1},
+    {"x":  68, "y":  88, "active": 1},
+    {"x":  95, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 165,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 126,
+    "oxygen":  702,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 206, "y":  40, "direction": 0, "active": 1},
+    {"x":  44, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  64, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 124, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 144, "y":  85, "active": 1},
+    {"x":   3, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 166, "y": 110, "type": 0, "active": 1},
+    {"x":   4, "y": 120, "type": 1, "active": 1},
+    {"x": 186, "y": 130, "type": 1, "active": 1},
+    {"x":  24, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 191, "y":   2, "active": 1},
+    {"x":  74, "y":  95, "active": 1},
+    {"x":  69, "y":  88, "active": 1},
+    {"x":  94, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 166,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+},
+
+{
+  "player": {
+    "x":  81,
+    "y": 127,
+    "oxygen":  701,
+    "lives": 1,
+    "current_divers_count": 2
+  },
+  "bullets": [
+    {"x": 207, "y":  40, "direction": 0, "active": 1},
+    {"x":  43, "y":  45, "direction": 1, "active": 1},
+    {"x": 140, "y":  50, "direction": 0, "active": 0},
+    {"x":  63, "y":  55, "direction": 1, "active": 1},
+    {"x": 210, "y":  60, "direction": 0, "active": 0} 
+  ],
+  "enemy_bullets": [
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 123, "y":  75, "active": 1},
+    {"x":   0, "y": 100, "active": 0},
+    {"x": 143, "y":  85, "active": 1},
+    {"x":   2, "y": 120, "active": 1} 
+  ],
+  "enemies": [
+    {"x":   0, "y": 100, "type": 1, "active": 0},
+    {"x": 167, "y": 110, "type": 0, "active": 1},
+    {"x":   3, "y": 120, "type": 1, "active": 1},
+    {"x": 187, "y": 130, "type": 1, "active": 1},
+    {"x":  23, "y": 140, "type": 0, "active": 1} 
+  ],
+  "divers": [
+    {"x": 162, "y":  79, "active": 1},
+    {"x":  73, "y":  95, "active": 1},
+    {"x":  70, "y":  88, "active": 1},
+    {"x":  93, "y": 105, "active": 1},
+    {"x": 210, "y": 110, "active": 0} 
+  ],
+  "patrol_submarine": {
+    "x": 167,
+    "y":  10,
+    "active": 1
+  },
+  "score":      10000
+}]
+

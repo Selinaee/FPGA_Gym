@@ -21,7 +21,7 @@
     <td><img src="Docs/image/taxi.gif" alt="Image 7" width="100"/></td>
 
   </tr>
-
+    <td><img src="Docs/image/seaquest.gif" alt="Image 7" width="100"/></td>
 </table>
 
 ## Introduction
