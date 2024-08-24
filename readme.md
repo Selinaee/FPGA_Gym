@@ -46,7 +46,7 @@ We are committed to continually expanding and enhancing the range of environment
 |  🕳️ CliffWalking                          | gridworld    | CliffWalking-v0                | [code](github/Environment/CliffWalking) | [Click](https://gymnasium.farama.org/environments/toy_text/cliff_walking/)    |
 | 🚕 Taxi                             | gridworld    | Taxi-v3                                 | [code](github/Environment/Taxi) | [Click](https://gymnasium.farama.org/environments/toy_text/taxi/)    |
 |🃏 Blackjack                   | strategy games    | Blackjack-v1                                            | [code](github/Environment/BlackJack) | [Click](https://gymnasium.farama.org/environments/toy_text/blackjack/)    |
-
+|🚢 Seaquest                   | Atari games    |                                            | [code](github/Environment/Seaquest) | [Click](https://atariage.com/manual_html_page.php?SoftwareLabelID=424)    |
 
 ## Template
 we provide the verilog template and python template, The hierarchical structure of the file is illustrated as follows:
