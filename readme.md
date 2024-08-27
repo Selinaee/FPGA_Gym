@@ -67,6 +67,9 @@ Please see the ["How to Write Single Environment Compute in Verilog.md"](github/
 You can see an example in this [Video](https://www.bilibili.com/video/BV12tV4e1EVw/?vd_source=3bfa69ca5962fd1ea8f48c880ae9844c). We demo
 an example of PPO algorithm training based on FPGA-Gym.
 
+You can see an example in this [Video](https://youtu.be/hgF3JZtLvZw). We demo
+an example of how to write an atari game seaquest based on FPGA-Gym in verilog.
+
 File include:
 1. VivadoProjectExample：
    You can download the environment's Vivado project in this [URL](https://disk.pku.edu.cn/link/AAA5847B47B5C84CFD987D4B0A803A7CC0).
