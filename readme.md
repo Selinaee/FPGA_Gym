@@ -70,13 +70,6 @@ an example of PPO algorithm training based on FPGA-Gym.
 You can see an example in this [Video](https://youtu.be/hgF3JZtLvZw). We demo
 an example of how to write an atari game seaquest based on FPGA-Gym in verilog.
 
-File include:
-1. VivadoProjectExample：
-   You can download the environment's Vivado project in this [URL](https://disk.pku.edu.cn/link/AAA5847B47B5C84CFD987D4B0A803A7CC0).
-   It includes
-   the template Vivado project
-   the CartPole, CliffWalking, Pendulum, Blackjack Vivado project
-2. FPGAEnv(python code, use directly with training connections)
 
 Preliminary software and hardware preparations:
 1. An FPGA development board with PCIe
@@ -130,9 +123,8 @@ Podracer
 You can cite FPGA-Gym as:
 
 ```bibtex
-@misc{jiayili2024fpga-gym,
+@misc{2024fpga-gym,
   title={FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework},
-  author={Jiayi Li},
   year={2024},
   primaryClass={cs.LG},
   url={https://github.com/Selinaee/FPGA_Gym},
