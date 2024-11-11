@@ -97,15 +97,3 @@ In building
 |  CPU                         |  [EnvPool](https://github.com/sail-sg/envpool)  | [Click]()                                                   |   A C++-based batched environment pool with pybind11 and thread pool. |
 
 
-
-## Citation
-
-You can cite FPGA-Gym as:
-
-```bibtex
-@misc{2024fpga-gym,
-  title={FPGA-Gym: An FPGA-Accelerated Reinforcement Learning Environment Simulation Framework},
-  year={2024},
-  primaryClass={cs.LG},
-  url={https://github.com/Selinaee/FPGA_Gym},
-}
