@@ -96,4 +96,16 @@ In building
 |  CPU                         |  [VectorEnv](https://gymnasium.farama.org/api/vector/)  | [Click]()                                                   | The base class for vectorized environments to run multiple independent copies of the same environment in parallel. | 
 |  CPU                         |  [EnvPool](https://github.com/sail-sg/envpool)  | [Click]()                                                   |   A C++-based batched environment pool with pybind11 and thread pool. |
 
+## Citing PEARL
 
+If you find FPGA-Gym useful in your research, please cite our paper:
+
+```bibtex
+@inproceedings{li2025pearl,
+  author    = {Li, Jiayi and Zhao, Hanrui and Yue, Wenjun and Fu, Yao and Shi, Dongyang and Fan, Aohui and Yang, Yifan and Yan, Bangqi},
+  title     = {{PEARL}: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments},
+  booktitle = {Proceedings of the 2025 Design, Automation \& Test in Europe Conference (DATE)},
+  year      = {2025},
+  pages     = {1--7},
+  doi       = {10.23919/DATE64628.2025.10992886}
+}
