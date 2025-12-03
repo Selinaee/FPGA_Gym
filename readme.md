@@ -102,10 +102,10 @@ If you find FPGA-Gym useful in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{li2025pearl,
-  author    = {Li, Jiayi and Zhao, Hanrui and Yue, Wenjun and Fu, Yao and Shi, Dongyang and Fan, Aohui and Yang, Yifan and Yan, Bangqi},
+  author={Li, Jiayi and Zhao, Hongxiao and Yue, Wenshuo and Fu, Yihan and Shi, Daijing and Fan, Anjunyi and Yang, Yuchao and Yan, Bonan},
   title     = {{PEARL}: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments},
-  booktitle = {Proceedings of the 2025 Design, Automation \& Test in Europe Conference (DATE)},
+  booktitle = {2025 Design, Automation & Test in Europe Conference (DATE)},
   year      = {2025},
-  pages     = {1--7},
+  pages     = {1-7},
   doi       = {10.23919/DATE64628.2025.10992886}
 }
